@@ -1,4 +1,3 @@
-# trapnell lab research
 
 ## Build site
 
