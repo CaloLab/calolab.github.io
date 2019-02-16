@@ -1096,7 +1096,7 @@ pre code {
     margin-left: 66.66666667%;
   }
   .col-md-offset-9 {
-    margin-left: 75%;
+    margin-left: 70%;
   }
   .col-md-offset-10 {
     margin-left: 83.33333333%;
@@ -2894,6 +2894,7 @@ input[type="button"].btn-block {
 }
 .media-object {
   display: block;
+  padding-left: 15px;
 }
 .media-heading {
   margin: 0 0 5px;
